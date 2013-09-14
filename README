@@ -1,0 +1,13 @@
+fsv - 3D File System Visualizer
+
+Daniel Richard G.
+
+fsv offers an intuitive, visual means of overviewing the layout and content of a file system. It translates a mass of information about files and directories (such as relative sizes) into geometry, constructing a 3D representation which can be easily viewed and manipulated. Each distinct file system entity, or node-- be it a file, directory, symbolic link, device interface, etc.-- is given a geometric counterpart with representational properties.
+
+fsv's user interface consists of two main components:
+
+A directory tree / file list browser, as seen in many file manager programs, and
+
+a graphical viewport for viewing file system geometry.
+
+The functionality of these are closely linked together, for a simple yet flexible means of browsing the file system.
